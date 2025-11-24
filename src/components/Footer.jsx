@@ -53,10 +53,10 @@ const Footer = () => {
       {/* Footer Bottom */}
       <div className="text-center text-xs md:text-sm mt-6 pb-6 text-gray-500">
         <p>
-          &copy; 2025 <a href="https://www.linkedin.com/in/md-sumon9897/" className="hover:text-primary">Mohammad Sumon</a>. All rights reserved.
+          &copy; 2025 <a href="https://www.linkedin.com/in/adityabinorkar/" className="hover:text-primary">Binorkar Aditya</a>. All rights reserved.
         </p>
         <p className="mt-1">
-          GitHub: <a href="https://github.com/sumu9897" className="hover:text-primary">sumu9897</a>
+          GitHub: <a href="https://github.com/robinhood153" className="hover:text-primary">robinhood153</a>
         </p>
       </div>
     </footer>
